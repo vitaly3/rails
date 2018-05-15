@@ -1,4 +1,4 @@
 // frontend/packs/application.js
 import "init";
 import "components/page/page";
-import "./application.css";
+import "components/auth-form/auth-form";
