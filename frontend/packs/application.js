@@ -1,4 +1,5 @@
 // frontend/packs/application.js
-import "./application.css";
-
-document.body.insertAdjacentHTML("afterbegin", "Webpacker works!");
+import "init";
+import "components/page/page";
+import "components/auth-form/auth-form";
+import "components/chat/chat";
